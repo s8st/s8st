@@ -1,5 +1,5 @@
 ### Hi there 👋
-###### 프로파일 페이지 신기하군요
+## 프로파일 페이지 신기하군요
 # 마크다운 배워서 한번 꾸며 보고 싶네요
 
 <!--
@@ -16,6 +16,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+😀
+![image](https://github.com/s8st/s8st/assets/153998744/1c714b0e-87e4-4d4d-9414-fcd28a64d3fc)
+
+
+
+
+- 유니티에서 마우스포인터가 있는 부분에서 shift + spacebar누르면 전체화면이 됩니다
+- 윈도우키 +shift + s : 윈도우 기본 스샷
+- 듀얼모니터 사용시 창 좌우로 이동 : shift + 윈도우키 +  ←→ (좌,우 방향키)
+- 특수키 확장 : 한글 자음 + 한자 +tab키 예시) ㅁ+한자키 누르면 특수키 나오는데 tab키누르면 확장
+- 유니티에서 (Alt + Shift + a): 하이어라키에서 객체들 SetAtive toggle 보이게 -- 안보이게
+- 유니티에서 ctrl + shift + a :  인스펙터에서 Add Component
+- 빈 게임오젝트만들기 단축키(ctrl+shift+n), 자식 빈 게임오브젝트만들기 단축키(alt+shift+n)
+    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/6a28e3f6-c721-47d3-82e5-0ccd16afabb2/Untitled.png)
+    
+- 유니티 단축키 : https://happysalmon.tistory.com/32
+- https://blog.naver.com/o_o__eb/222916494209
+
+
 
 
 
