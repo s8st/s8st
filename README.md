@@ -34,3 +34,7 @@ https://www.khan.co.kr/opinion/column/article/202402042042005
 [유용한 윈도우 단축키2](https://www.youtube.com/watch?v=kVmdftY_nr0)
 
 [우와~ 깃허브 멋지게 꾸미는 방법](https://www.youtube.com/watch?v=w9DfC2BHGPA)
+
+
+
+![Untitled](https://github.com/s8st/s8st/assets/153998744/adfb228c-56fa-49b6-a478-169f9f3d5d6f)
