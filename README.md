@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 
 😀
+
+https://www.youtube.com/watch?v=rb52LNPOwo0
+
 ![image](https://github.com/s8st/s8st/assets/153998744/1c714b0e-87e4-4d4d-9414-fcd28a64d3fc)
 
 
