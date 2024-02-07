@@ -1,4 +1,6 @@
 ### Hi there 👋
+###### 프로파일 페이지 신기하군요
+# 마크다운 배워서 한번 꾸며 보고 싶네요
 
 <!--
 **s8st/s8st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +39,4 @@ https://www.khan.co.kr/opinion/column/article/202402042042005
 
 
 
-![Untitled](https://github.com/s8st/s8st/assets/153998744/adfb228c-56fa-49b6-a478-169f9f3d5d6f)
+
