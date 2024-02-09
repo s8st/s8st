@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [https://www.youtube.com/watch?v=rb52LNPOwo0]
 
-![움짤 테스트 동영상만 잘 안되네](https://github.com/s8st/s8st/assets/153998744/370fec36-50b3-4c4f-910c-2ad7c677a9a9)
+
 
 
 
