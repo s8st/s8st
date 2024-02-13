@@ -20,13 +20,16 @@ Here are some ideas to get you started:
 [![Video Label](http://img.youtube.com/vi/'rb52LNPOwo0'/0.jpg)](https://youtu.be/'rb52LNPOwo0')
 
 [https://www.youtube.com/watch?v=rb52LNPOwo0]
-
+---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/rb52LNPOwo0" title="이문세 노래모음 26곡, 보고듣는 소울뮤직TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
 
 
+https://youtu.be/rb52LNPOwo0?si=ZHRUOTeFMyH8NWsO
 
 
+---
 
 - 유니티에서 마우스포인터가 있는 부분에서 shift + spacebar누르면 전체화면이 됩니다
 - 윈도우키 +shift + s : 윈도우 기본 스샷
