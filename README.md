@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 [https://www.youtube.com/watch?v=rb52LNPOwo0]
 
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/rb52LNPOwo0" title="이문세 노래모음 26곡, 보고듣는 소울뮤직TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 
 
