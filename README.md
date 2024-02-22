@@ -31,11 +31,22 @@ https://youtu.be/rb52LNPOwo0?si=ZHRUOTeFMyH8NWsO
 
 netpong test : https://s8st.github.io/netpong2_off_falback/
 
-https://github.com/s8st/netpong2_off_falback/blob/main/0222%EA%B3%BC%EC%A0%9C.gif
 
-https://s8st.github.io/netpong2_off_falback/0222%EA%B3%BC%EC%A0%9C.gif
+gif 연결이 안되네...
 
-0222과제.gif
+https://s8st.github.io/netpong2_off_falback/0222gif.gif
+
+https://github.com/s8st/netpong2_off_falback/blob/main/0222gif.gif
+
+
+![image](https://s8st.github.io/netpong2_off_falback/0222gif.gif)
+
+![image](https://s8st.github.io/netpong2_off_falback/0222gif.gif)
+
+![image](https://github.com/s8st/s8st/assets/153998744/3ea11d2d-0343-4808-a865-760ebb381cff)
+
+
+0222gif.gif
 
 ---
 
