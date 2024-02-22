@@ -31,6 +31,10 @@ https://youtu.be/rb52LNPOwo0?si=ZHRUOTeFMyH8NWsO
 
 netpong test : https://s8st.github.io/netpong2_off_falback/
 
+https://github.com/s8st/netpong2_off_falback/blob/main/0222%EA%B3%BC%EC%A0%9C.gif
+
+
+
 ---
 
 - 유니티에서 마우스포인터가 있는 부분에서 shift + spacebar누르면 전체화면이 됩니다
