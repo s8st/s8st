@@ -33,7 +33,9 @@ netpong test : https://s8st.github.io/netpong2_off_falback/
 
 https://github.com/s8st/netpong2_off_falback/blob/main/0222%EA%B3%BC%EC%A0%9C.gif
 
+https://s8st.github.io/netpong2_off_falback/0222%EA%B3%BC%EC%A0%9C.gif
 
+0222과제.gif
 
 ---
 
