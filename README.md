@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+강인 튜터님 추천 :
+https://shlifedev.gitbook.io/unitygooglesheets/
+
+
+
 [![Video Label](http://img.youtube.com/vi/'rb52LNPOwo0'/0.jpg)](https://youtu.be/'rb52LNPOwo0')
 
 [https://www.youtube.com/watch?v=rb52LNPOwo0]
