@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 강인 튜터님 추천 :
 https://shlifedev.gitbook.io/unitygooglesheets/
 
-
+https://i.imgur.com/otyeSQJ.gif
 
 [![Video Label](http://img.youtube.com/vi/'rb52LNPOwo0'/0.jpg)](https://youtu.be/'rb52LNPOwo0')
 
