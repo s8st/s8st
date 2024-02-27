@@ -21,7 +21,22 @@ Here are some ideas to get you started:
 ---
 ---
 
-<kbd>win</kbd> + <kbd>**.**</kbd>   =>  윈도우 이모지 
+<kbd>win</kbd> + <kbd>**.**</kbd>   =>  윈도우 이모지
+
+
+---
+===
+가나다라 주석[^1].
+
+[^1]: 윈도우 이모티콘 단축키.
+===
+---
+
+
+
+---
+
+
 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animals--nature
 
