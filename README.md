@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 ---
 ---
 
+<kbd>win</kbd> + <kbd>**.**</kbd>   =>  윈도우 이모지 
+
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animals--nature
+
 :snail:
 > :snail: == `:snail:`
 
