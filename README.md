@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - [ ] ㄱ
 - [ ] ㄴ
 
+`rgb(9, 105, 218)`
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
