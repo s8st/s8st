@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 - [ ] ㄴ
 
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
+`rgb(255,0,0)`r
 
 >>rgb(255,0,0)
 
