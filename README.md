@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 https://s8st.github.io/test1.md
 ---
-[연결](https://s8st.github.io/20240304.md)
+[주소로 연결:https://s8st.github.io/20240304.md](https://s8st.github.io/20240304.md)
 ---
 ---
 ---
