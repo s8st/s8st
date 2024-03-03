@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ---
 
 링크 테스트 [s8st.github.io/test1.md]()
+링크테스트[https://github.com/s8st/s8st.github.io/tree/main/test1.md]()
 
 ---
 ---
