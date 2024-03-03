@@ -27,7 +27,14 @@ Here are some ideas to get you started:
 
 https://s8st.github.io/test1.md
 ---
-[주소로 연결:https://s8st.github.io/20240304.md](https://s8st.github.io/20240304.md)
+[절대 주소로 연결:https://s8st.github.io/20240304.md](https://s8st.github.io/20240304.md)
+
+상대 주소로 연결하려면???
+깃허브 프로파일 페이지 : https://github.com/s8st
+깃허브 웹 페이지 : https://s8st.github.io/
+주소가 아예 다른 것 같다..
+
+
 ---
 ---
 ---
