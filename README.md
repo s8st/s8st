@@ -27,7 +27,12 @@ Here are some ideas to get you started:
 
 https://s8st.github.io/test1.md
 ---
+[연결](s8st.github.io/20240304.md)
 ---
+---
+---
+---
+
 
 <kbd>win</kbd> + <kbd>**.**</kbd>   =>  윈도우 이모지
 
