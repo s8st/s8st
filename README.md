@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 소문자로 작성
 
 <a href="#" class="btn--success">Success Button</a>
-[Default Button](#){: .btn .btn--primary }
+[Button](#){: .btn .btn--primary }
 
 ```
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <a href="#" class="btn--success">Success Button</a>  
 
-[Default Button](#){: .btn .btn--primary }  
+[Button](#)
 
 
 ---
@@ -404,7 +404,7 @@ console.log('Hello World!');
 
 <a href="#" class="btn--success">Success Button</a>  
 
-[Default Button](#){: .btn .btn--primary }  
+[Button](#)
 
 
 
