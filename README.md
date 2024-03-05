@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 안녕!
-#### ⚒  Under Construction 🛠
+## ⚒  Under Construction 🛠
 <!-- 주석 -->
 
 <!--
@@ -17,6 +17,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+<summary>토글 방식으로 접고 펼치는 방법 </summary>
+<div markdown="1">
+
+위의 ▶ 삼각형을 누르면 토글로 접고 펼칠 수 있다.
+
+</div>
+</details>
+
+```html
+<details>
+<summary>토글 방식으로 접고 펼치는 방법 </summary>
+<div markdown="1">
+
+위의 ▶ 삼각형을 누르면 토글로 접고 펼칠 수 있다.
+
+ //div markdown="1" 작성은 필수
+
+</div>
+</details>
+```
+
+
+
 
 ---
 
