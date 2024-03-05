@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [하단의 What is Lorem Ipsum?로 이동](#what-is-lorem-ipsum)
 
-   
+[맨 처음으로 이동?](#)
 
 [링크 테스트](#0222gifgif)  
 
@@ -35,14 +35,21 @@ Here are some ideas to get you started:
 
 0222gif.gif  --->  #0222gifgif
 
-문단의 첫 문자열 앞에 # 붙이기
-문자열의 공백은 - 로 바꾸기 
-특수문자 : 모두 삭제
+- 문단의 첫 문자열 앞에 # 붙이기
+- 문자열의 공백은 - 로 바꾸기 
+- 특수문자 : 모두 삭제
+- 소문자로 작성
+
+<a href="#" class="btn--success">Success Button</a>
+[Default Button](#){: .btn .btn--primary }
 
 ```
 
 [여기를 링크로 가보자](#여기를-링크로-가보자)
 
+<a href="#" class="btn--success">Success Button</a>  
+
+[Default Button](#){: .btn .btn--primary }  
 
 
 ---
