@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-[하단의 What is Lorem Ipsum?로 이동](https://github.com/s8st#what-is-lorem-ipsum)
+[하단의 What is Lorem Ipsum?로 이동](https://github.com/s8st#what-is-lorem-ipsum)  
+
+[하단의 What is Lorem Ipsum?로 이동](#what-is-lorem-ipsum)
 
    
 
@@ -29,7 +31,7 @@ Here are some ideas to get you started:
  하단에 있는 0222gif.gif 바로 가는 링크
 
 [하단의 What is Lorem Ipsum?로 이동](https://github.com/s8st#what-is-lorem-ipsum)
-
+[하단의 What is Lorem Ipsum?로 이동](#what-is-lorem-ipsum)
 
 0222gif.gif  --->  #0222gifgif
 
