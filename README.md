@@ -16,7 +16,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
+
+
+글자색 바꾸기  
+
+
+<span style="color:yellow">노란 글씨입니다.</span>  
+
+
+<span style="color:red">red 글씨입니다.</span>  
+
+
+```html
+<span style="color:yellow">노란 글씨입니다.</span>
+```
+---
+
+<u>밑줄 있는 텍스트입니다</u>
+
+```
+<u>밑줄 있는 텍스트입니다</u>
+```
+
+---
+
 
 <details>
 <summary>토글 방식으로 접고 펼치는 방법 </summary>
