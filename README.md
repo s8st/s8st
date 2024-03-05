@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 0222gif.gif  --->  #0222gifgif
 
 문단의 첫 문자열 앞에 # 붙이기
-문자열의 공백 : -
+문자열의 공백은 - 로 바꾸기 예시) 이건 된다 gif  ---> 이건-된다-gif
 특수문자 : 모두 삭제
 
 ```  
-
+[링크 테스트:하단의  이건 된다 gif로 이동 ](#이건-된다-gif)  
 
 
    
