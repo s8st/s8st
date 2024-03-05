@@ -18,6 +18,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+
+[링크 테스트](#0222gifgif)  
+
+```
+[링크 테스트](#0222gif.gif)
+문단의 첫 문자열
+문자열의 공백 : -
+특수문자 : 모두 삭제
+
+```  
+
+
+
    
 > <kbd> 글자색, 밑줄 등은 안되네??</kbd>
 
