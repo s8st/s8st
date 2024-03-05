@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+[여기를 링크로 가보자](#여기를-링크로-가보자)  
+
+   
 
 [링크 테스트](#0222gifgif)  
 
@@ -28,11 +31,11 @@ Here are some ideas to get you started:
 0222gif.gif  --->  #0222gifgif
 
 문단의 첫 문자열 앞에 # 붙이기
-문자열의 공백은 - 로 바꾸기 예시) 
+문자열의 공백은 - 로 바꾸기 
 특수문자 : 모두 삭제
 
 ```
-
+[여기를 링크로 가보자](#여기를-링크로-가보자)
 
 
 
@@ -371,6 +374,8 @@ console.log('hello')
 ```ts
 console.log('Hello World!');
 ```
+
+여기를 링크로 가보자
 
 |Feature|Description|
 |--|--|
