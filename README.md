@@ -22,8 +22,12 @@ Here are some ideas to get you started:
 [링크 테스트](#0222gifgif)  
 
 ```
-[링크 테스트](#0222gif.gif)
-문단의 첫 문자열
+[링크 테스트](#0222gifgif)
+ 하단에 있는 0222gif.gif 바로 가는 링크
+
+0222gif.gif  --->  #0222gifgif
+
+문단의 첫 문자열 앞에 # 붙이기
 문자열의 공백 : -
 특수문자 : 모두 삭제
 
