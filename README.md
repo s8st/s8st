@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-[여기를 링크로 가보자](#여기를-링크로-가보자)  
+
 
    
 
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 특수문자 : 모두 삭제
 
 ```
+
 [여기를 링크로 가보자](#여기를-링크로-가보자)
 
 
