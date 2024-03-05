@@ -38,6 +38,12 @@ https://s8st.github.io/test1.md
 https://github.com/s8st/s8st.github.io/tree/main/test1.md
 
 
+---
+동영상 업로드 테스트 : 10mb제한. 영상 드래그엔드롭하면 자동으로 플레이 가능상태로 삽입됨
+
+
+https://github.com/s8st/s8st/assets/153998744/145ff253-3f52-4336-9f90-abe1decf03a7
+
 
 ---
 ---
