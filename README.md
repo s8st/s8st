@@ -18,6 +18,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+---
+
+
+|날짜|제목|
+|--|--|
+|20240308|[pong만들기](https://github.com/s8st/pong0307/tree/main)|
+| | |
+
+
+
+
+
+
+---
 [하단의 What is Lorem Ipsum?로 이동](https://github.com/s8st#what-is-lorem-ipsum)  
 
 [하단의 What is Lorem Ipsum?로 이동](#what-is-lorem-ipsum)
