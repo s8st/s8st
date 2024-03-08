@@ -21,14 +21,16 @@ Here are some ideas to get you started:
 ---
 
 
-|날짜|제목|테이블도 신기하구만?|
-|--|--|--|
-|20240308|[pong만들기](https://github.com/s8st/pong0307/tree/main)| 내손으로 직접 코딩 중...|
-| 계속 추가| | |
+|날짜|제목|?|?|
+|--|--|--|--|
+|20240308|[pong만들기](https://github.com/s8st/pong0307/tree/main)|  | |
+|20240308|[TopDown게임만들기](https://github.com/s8st/0308TopDown) | | |
+| | | | |
 
-```html
 
-|날짜|제목|테이블도 신기하구만?|
+```Html
+
+|날짜|제목| |
 |--|--|--|
 |20240308|[pong만들기](https://github.com/s8st/pong0307/tree/main)| |
 | 계속 추가| | |
