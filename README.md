@@ -21,11 +21,18 @@ Here are some ideas to get you started:
 ---
 
 
-|날짜|제목|
-|--|--|
-|20240308|[pong만들기](https://github.com/s8st/pong0307/tree/main)|
-| | |
+|날짜|제목|테이블도 신기하구만?|
+|--|--|--|
+|20240308|[pong만들기](https://github.com/s8st/pong0307/tree/main)| |
+| 계속 추가| | |
 
+```html
+
+|날짜|제목|테이블도 신기하구만?|
+|--|--|--|
+|20240308|[pong만들기](https://github.com/s8st/pong0307/tree/main)| |
+| 계속 추가| | |
+```
 
 
 
