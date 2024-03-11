@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 -->  
 
 
+---
+webp는 지원안됨
+![image](https://github.com/s8st/s8st/assets/153998744/81449559-e78c-473b-a38f-0da54b254d73)
+
+
+WebM 테스트
+923kb
+
+[Honeycam 2024-03-11 23-53-04.webm](https://github.com/s8st/s8st/assets/153998744/9425e2ca-d41c-4b2e-abbf-98cdb367537d)
+
+
+
+
+---
+
+
+
+
+
 
 ---
 어떤 웹브라우저가 기본적으로 WebP를 지원하나요?  
