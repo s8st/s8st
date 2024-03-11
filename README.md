@@ -18,6 +18,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+
+
+---
+어떤 웹브라우저가 기본적으로 WebP를 지원하나요?
+사이트 성능을 개선하는 데 관심이 있는 웹마스터는 현재 이미지에 최적화된 WebP 대체 버전을 쉽게 만들어 WebP를 지원하는 브라우저에 타겟팅된 방식으로 제공할 수 있습니다.
+
+WebP 손실 지원
+Chrome (데스크톱) 17 이상
+Android용 Chrome 버전 25 이상
+Microsoft Edge 18 이상
+Firefox 65 이상
+Opera 11.10 이상
+기본 웹브라우저, Android 4.0 이상 (ICS)
+Safari 14 이상 (iOS 14 이상, macOS Big Sur+)
+WebP 손실, 무손실 및 알파 지원
+Chrome (데스크톱) 23 이상
+Android용 Chrome 버전 25 이상
+Microsoft Edge 18 이상
+Firefox 65 이상
+Opera 12.10 이상
+기본 웹브라우저, Android 4.2 이상 (JB-MR1)
+페일 문 26 이상
+Safari 14 이상 (iOS 14 이상, macOS Big Sur+)
+WebP 애니메이션 지원
+Chrome (데스크톱 및 Android) 32 이상
+Microsoft Edge 18 이상
+Firefox 65 이상
+Opera 19 이상
+Safari 14 이상 (iOS 14 이상, macOS Big Sur+)
+---
 ---
 ```c#
 
