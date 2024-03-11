@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 안녕!
+# 괜찮아! 잘 될 거야.
 ## ⚒  Under Construction 🛠
 <!-- 주석 -->
 
@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 -->  
 
 ---
+https://www.youtube.com/watch?v=dUbp9wAy178
+
+
+---
+
+
 
 
 |날짜|제목|?|?|
