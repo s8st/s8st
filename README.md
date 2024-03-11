@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ---
-webp는 지원안됨
+webp는 지원안됨  
 ![image](https://github.com/s8st/s8st/assets/153998744/81449559-e78c-473b-a38f-0da54b254d73)
 
 
