@@ -19,6 +19,24 @@ Here are some ideas to get you started:
 -->  
 
 ---
+```c#
+Console.Write("문자를 입력하세요: ");
+char input = Console.ReadLine()[0];
+
+if (input >= 'a' && input <= 'z' || input >= 'A' && input <= 'Z')
+{
+    Console.WriteLine("알파벳입니다.");
+}
+else
+{
+    Console.WriteLine("알파벳이 아닙니다.");
+}
+
+```
+
+
+
+---
 https://www.youtube.com/watch?v=dUbp9wAy178
 
 
