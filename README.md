@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 
 ---
 ```c#
+
+            for (int i = 1; i <= 9; i++)
+            {
+                for (int j = 2; j <= 9; j++)
+                {
+                    Console.Write(j + " x " + i + " = " + (i * j)+"\t");
+                }
+                Console.WriteLine();
+            }
+```
+---
+
+![image](https://github.com/s8st/s8st/assets/153998744/a29d9f30-7666-46c9-8062-5394658d967e)
+
+
+
+
+---
+```c#
 Console.Write("문자를 입력하세요: ");
 char input = Console.ReadLine()[0];
 
