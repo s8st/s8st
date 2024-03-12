@@ -25,6 +25,49 @@ https://www.youtube.com/watch?v=b8YUfee_pzc
 
 ---
 
+
+```
+// 게임 캐릭터 클래스
+class GameCharacter
+{
+    private Action<float> healthChangedCallback;
+
+    private float health;
+
+    public float Health
+    {
+        get { return health; }
+        set
+        {
+            health = value;
+            healthChangedCallback?.Invoke(health);
+        }
+    }
+
+    public void SetHealthChangedCallback(Action<float> callback)
+    {
+        healthChangedCallback = callback;
+    }
+}
+
+// 게임 캐릭터 생성 및 상태 변경 감지
+GameCharacter character = new GameCharacter();
+character.SetHealthChangedCallback(health =>
+{
+    if (health <= 0)
+    {
+        Console.WriteLine("캐릭터 사망!");
+    }
+});
+
+// 캐릭터의 체력 변경
+character.Health = 0;
+
+```
+
+
+---
+
 ```c#
 // 아이템을 사용할 수 있는 인터페이스
 public interface IUsable
