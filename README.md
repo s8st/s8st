@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+---
+https://www.csharpstudy.com/  
+https://www.w3schools.com/cs/index.php  
+https://www.youtube.com/watch?v=b8YUfee_pzc  
+
+
 
 ---
 webp는 지원안됨  
