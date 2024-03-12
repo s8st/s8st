@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ---  
 
-https://github.com/s8st/s8st/blob/main/folder1/1.md#여기로-링크-걸기
+[#링크테스트 : 절대경로](https://github.com/s8st/s8st/blob/main/folder1/1.md#여기로-링크-걸기)  
+
+[#링크테스트 : 상대경로](folder1/1.md#여기로-링크-걸기)
 
 절대경로: 
 ![img](https://github.com/s8st/s8st/blob/main/folder1/22.jpg)  
@@ -35,6 +37,12 @@ https://github.com/s8st/s8st/blob/main/folder1/1.md#여기로-링크-걸기
 
 
 ```
+
+[#링크테스트 : 절대경로](https://github.com/s8st/s8st/blob/main/folder1/1.md#여기로-링크-걸기)  
+
+[#링크테스트 : 상대경로](folder1/1.md#여기로-링크-걸기)
+
+
 
 절대경로: 
 ![img](https://github.com/s8st/s8st/blob/main/folder1/22.jpg)  
