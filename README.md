@@ -18,6 +18,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+
+---   
+
+
+# 🥰  
+:s  
+<kbd> : </kbd> + <kbd> s </kbd>  
+<kbd> : </kbd> + <kbd> 알파벳 </kbd>  
+![image](https://github.com/s8st/s8st/assets/153998744/78e3cb7a-2a4e-4a29-a0ce-eac0749c9450)  
+
+
+키보드모양
+```
+<kbd>  </kbd>
+```
+
+
+---
+
+  
+***delegate***  
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=7H3MHXfFkhI
+
 ---
 https://www.csharpstudy.com/  
 https://www.w3schools.com/cs/index.php  
