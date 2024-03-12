@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 괜찮아! 잘 될 거야.
+# 1234567890
 ## ⚒  Under Construction 🛠
 <!-- 주석 -->
 
@@ -23,6 +23,43 @@ https://www.csharpstudy.com/
 https://www.w3schools.com/cs/index.php  
 https://www.youtube.com/watch?v=b8YUfee_pzc  
 
+---
+
+```c#
+// 아이템을 사용할 수 있는 인터페이스
+public interface IUsable
+{
+    void Use();
+}
+
+// 아이템 클래스
+public class Item : IUsable
+{
+    public string Name { get; set; }
+
+    public void Use()
+    {
+        Console.WriteLine("아이템 {0}을 사용했습니다.", Name);
+    }
+}
+
+// 플레이어 클래스
+public class Player
+{
+    public void UseItem(IUsable item)
+    {
+        item.Use();
+    }
+}
+
+// 게임 실행
+static void Main()
+{
+    Player player = new Player();
+    Item item = new Item { Name = "Health Potion" };
+    player.UseItem(item);
+}
+```
 
 
 ---
