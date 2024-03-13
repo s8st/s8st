@@ -25,8 +25,19 @@ Here are some ideas to get you started:
 
 <p style="color:orange"> 테이블과 그림 </p>
 
+```html
+<span style ="background-color : red"> 테이블과 그림 </span>  
+<span style ="font-size:50px"> 테이블과 그림 </span>  
+<p style="font-size:50px"> 테이블과 그림 </p>  
+
+<p style="color:orange"> 테이블과 그림 </p>
+
+```
+
+
 
 https://www.youtube.com/watch?v=mTBNQ3ag7Dw
+https://www.youtube.com/watch?v=a10E3lZE36U
 
 ---  
 
