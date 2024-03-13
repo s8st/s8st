@@ -20,6 +20,33 @@ Here are some ideas to get you started:
 
 ---  
 > `들여쓰기`
+?
+
+  
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
+````
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+````
+
+
 
 
 # 💣  `:bomb`
