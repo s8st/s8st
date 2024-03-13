@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 
 ---  
 
+<span style="color:red">
+
+빨강 글씨
+
+Red Font
+
+</span>
 
 ---  
 
