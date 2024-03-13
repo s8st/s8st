@@ -56,12 +56,12 @@ $\vec{A}$
 <p style="color:orange"> 테이블과 그림 </p>
 
 ```
+  
 
 
-
-https://www.youtube.com/watch?v=mTBNQ3ag7Dw
-https://www.youtube.com/watch?v=a10E3lZE36U
-https://www.youtube.com/watch?v=Yz8obC1DdVw
+https://www.youtube.com/watch?v=mTBNQ3ag7Dw  
+https://www.youtube.com/watch?v=a10E3lZE36U  
+https://www.youtube.com/watch?v=Yz8obC1DdVw  
 
 ---  
 
