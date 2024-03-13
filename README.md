@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+---  
+테이블과 그림
+
+https://www.youtube.com/watch?v=mTBNQ3ag7Dw
 
 ---  
 
