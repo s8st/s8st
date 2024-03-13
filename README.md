@@ -23,7 +23,7 @@ $\alpha\$
 $\beta$  == `$\beta$  `  
 $\vec{A}$  == `$\vec{A}$`      
 
-```latex
+```LaTex
 $\alpha\$
 $\beta$
 $\vec{A}$ 
