@@ -25,7 +25,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+ <summary>Tips for collapsed sections</summary>
 
 ### You can add a header
 
@@ -38,6 +38,10 @@ You can add an image or a code block, too.
 ```
 
 </details>
+
+---  
+
+
 
 ````
 <details>
