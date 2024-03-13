@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->  
 
 ---  
+# 💣  `:bomb`
 
 <span style="color:red">
 
