@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 
 
 $\alpha\$  
-$\beta$  == `$\beta$  `
+$\beta$  == `$\beta$  `  
+$\vec{A}$  == `$\vec{A}$`      
 
 ```latex
 $\alpha\$
-$\beta$  
+$\beta$
+$\vec{A}$ 
 ```
 
 ---  
