@@ -18,10 +18,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+
+
+---  
+
+```
+<div class="fa-3x">
+  <i class="fa-solid fa-circle-plus fa-beat"></i>
+  <i class="fa-solid fa-heart fa-beat"></i>
+  <i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s;"></i>
+  <i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 2s;"></i>
+  <i class="fa-solid fa-heart fa-beat" style="--fa-beat-scale: 2.0;"></i>
+</div>
+```
+
+
+```mermaid
+flowchart TD
+    B["fa:fa-twitter 🥇for peace"]
+    B-->C[fa:fa-ban forbidden]
+    B-->D(fa:fa-spinner)
+    B-->E(A fa:fa-camera-retro perhaps?)
+
+```
+
+
 ---  
 ```mermaid
 flowchart LR
     id1(((This is the text in the circle)))
+
+A["fa:fa-twitter for peace"]
 ```
 
 ::icon(mdi mdi-skull-outline)  
