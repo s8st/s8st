@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 ```mermaid
 flowchart TD
-    B["fa:fa-twitter 🥇for peace"]
-    B-->C[fa:fa-ban forbidden]
+    B(("fa:fa-twitter 🥇for peace"))
+    B-.->|😲글자추가|C[fa:fa-ban forbidden]
     B-->D(fa:fa-spinner)
     B-->E(A fa:fa-camera-retro perhaps?)
 
