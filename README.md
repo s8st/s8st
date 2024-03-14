@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 
 ---  
 
+::icon(mdi mdi-skull-outline)  
+:icon(mdi mdi-skull-outline)  
+::icon(fa fa-book)
+
+
+
 [![🥈](🥉)](🥇)
 
 
