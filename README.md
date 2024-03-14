@@ -73,6 +73,8 @@ You can add an image or a code block, too.
 > `들여쓰기`
 ?
 
+mermaid문법 --->  https://www.youtube.com/watch?v=NM53Cxn2P-w
+  
   
 Here is a simple flow chart:
 
@@ -89,7 +91,7 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 Here is a simple flow chart:
 
 ```mermaid
-graph TD;
+graph TD;  %% TD : topdown, LR : left right%%
     A-->B;
     A-->C;
     B-->D;
