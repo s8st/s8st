@@ -73,7 +73,9 @@ You can add an image or a code block, too.
 > `들여쓰기`
 ?
 
-mermaid문법 --->  https://www.youtube.com/watch?v=NM53Cxn2P-w
+mermaid문법 : 
+> https://www.youtube.com/watch?v=NM53Cxn2P-w  
+> https://www.youtube.com/watch?v=tfKFbYXcF1w
   
   
 Here is a simple flow chart:
