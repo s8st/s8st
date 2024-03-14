@@ -20,6 +20,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+---  
+```mermaid
+
+flowchart LR
+    0307링크테스트 --> 0314링크테스트
+    B-->C
+   
+    click 0307링크테스트 "https://github.com/s8st/pong0307" _blank
+    click 0314링크테스트 "https://github.com/s8st/20240314TopDown" "Open this in a new tab" _blank
+    click C href "https://www.github.com" _blank
+    click D href "https://www.github.com" "Open this in a new tab" _blank
+
+```
+
+````
+```mermaid
+
+flowchart LR
+    A-->B
+    B-->C
+    C-->D
+    D-->E
+    click A "https://www.github.com" _blank
+    click B "https://www.github.com" "Open this in a new tab" _blank
+    click C href "https://www.github.com" _blank
+    click D href "https://www.github.com" "Open this in a new tab" _blank
+
+```````
+
+
+---  
 
 ```mermaid
 flowchart LR
