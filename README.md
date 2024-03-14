@@ -1,3 +1,5 @@
+<link  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"  rel="stylesheet" />  
+
 ### Hi there 👋
 # 1234567890
 ## ⚒  Under Construction 🛠
@@ -19,6 +21,14 @@ Here are some ideas to get you started:
 -->  
 
 
+```mermaid
+flowchart LR
+    A:::foo & B:::bar --> C:::foobar
+    classDef foo stroke:#f00
+    classDef bar stroke:#0f0
+    classDef foobar stroke:#00f
+```
+
 
 ---  
 
@@ -34,6 +44,7 @@ Here are some ideas to get you started:
 
 
 ```mermaid
+
 flowchart TD
     B(("fa:fa-twitter 🥇for peace"))
     B-.->|😲글자추가|C[fa:fa-ban forbidden]
