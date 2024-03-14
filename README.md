@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 -->  
 
 ---  
+```mermaid
+flowchart LR
+    id1(((This is the text in the circle)))
+```
 
 ::icon(mdi mdi-skull-outline)  
 :icon(mdi mdi-skull-outline)  
