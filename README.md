@@ -24,8 +24,35 @@ Here are some ideas to get you started:
 
 |mermaid 종류|코드|모양|
 |---|---|---|
-|class|||
-|flowchart|```` ```mermaid flowchart LR   a --> b & c--> d  ```  ````|  ```mermaid flowchart LR   a --> b & c--> d ``` |
+|Sequence diagrams|||
+|flowchart|```` ```mermaid flowchart LR   a --> b & c--> d  ```  ````|  ```mermaid<br>flowchart LR<br>a --> b & c--> d <br>``` |
+
+
+```mermaid
+classDiagram
+    note "From Duck till Zebra"
+    Animal <|-- Duck
+    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
+```
 
 
 ```mermaid
