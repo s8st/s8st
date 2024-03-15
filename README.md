@@ -21,6 +21,21 @@ Here are some ideas to get you started:
 -->  
 
 ---  
+
+|mermaid 종류|코드|모양|
+|---|---|---|
+|class|||
+|flowchart|```` ```mermaid flowchart LR   a --> b & c--> d  ```  ````|  ```mermaid flowchart LR   a --> b & c--> d ``` |
+
+
+```mermaid
+flowchart LR
+   a --> b & c--> d
+```
+
+
+
+---  
 ```mermaid
 
 flowchart LR
