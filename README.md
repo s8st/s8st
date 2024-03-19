@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 
 ---  
-[![](https://mermaid.ink/img/pako:eNpVkLFOwzAQhl_ldBNIzQtkqESTwtIKJLrFGU7xpbao7cg4QiiJxMDIwMDckakT4qlKHgKXFgluOt3__b9-XYeVk4wprj01Cla5sBDnorgiw0uytGZfQpJM-_3Hy7h9hv3n09f7bty-9jA7O93Gt9350Tc7oJB1Cw5gGILS9m44StlPyrXlHvJiQU1wTflXWT24HuaFvlHO8n9FeY6uy6KmtKakIg8Z-RInaNgb0jLW7w4GgUGxYYFpXCXX1G6CQGGHiLaNpMBzqYPzGGM29zxBaoO7fbQVpsG3_AvlmuI3zIkavgFygWYB)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNpVkLFOwzAQhl_ldBNIzQtkqESTwtIKJLrFGU7xpbao7cg4QiiJxMDIwMDckakT4qlKHgKXFgluOt3__b9-XYeVk4wprj01Cla5sBDnorgiw0uytGZfQpJM-_3Hy7h9hv3n09f7bty-9jA7O93Gt9350Tc7oJB1Cw5gGILS9m44StlPyrXlHvJiQU1wTflXWT24HuaFvlHO8n9FeY6uy6KmtKakIg8Z-RInaNgb0jLW7w4GgUGxYYFpXCXX1G6CQGGHiLaNpMBzqYPzGGM29zxBaoO7fbQVpsG3_AvlmuI3zIkavgFygWYB)
 
 
 |mermaid   |다이어그램|코드|
