@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 -->  
 
 
+---  
+[![](https://mermaid.ink/img/pako:eNpVkE1qw0AMha8itGohvoAXhcZOswk0kOw8XgiPnBmS-WEsU4Ltu3dcU2i1knjf0xOasAuascRbomjgWisPud6byiQ7iKOhhaJ4m48s4ILn5wz7l2OAwYQYrb-9bvx-haCaTivGIMb6-7JJ1Y__0_MMdXOiKCG2f5XrV5jh0Nizyev_KyZxdn00PZU9FR0lqCi1uEPHyZHV-expNSgUw44VlrnV3NP4EIXKLxkdoybhg7YSEpaSRt4hjRIuT9_9zhtTW8pPcJizHgMv3zKoW4g)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNpVkE1qw0AMha8itGohvoAXhcZOswk0kOw8XgiPnBmS-WEsU4Ltu3dcU2i1knjf0xOasAuascRbomjgWisPud6byiQ7iKOhhaJ4m48s4ILn5wz7l2OAwYQYrb-9bvx-haCaTivGIMb6-7JJ1Y__0_MMdXOiKCG2f5XrV5jh0Nizyev_KyZxdn00PZU9FR0lqCi1uEPHyZHV-expNSgUw44VlrnV3NP4EIXKLxkdoybhg7YSEpaSRt4hjRIuT9_9zhtTW8pPcJizHgMv3zKoW4g)
+
+
+|mermaid   |다이어그램|코드|
+|--|--|--|
+|flowchart||[![](https://mermaid.ink/img/pako:eNpVkE1qw0AMha8itGohvoAXhcZOswk0kOw8XgiPnBmS-WEsU4Ltu3dcU2i1knjf0xOasAuascRbomjgWisPud6byiQ7iKOhhaJ4m48s4ILn5wz7l2OAwYQYrb-9bvx-haCaTivGIMb6-7JJ1Y__0_MMdXOiKCG2f5XrV5jh0Nizyev_KyZxdn00PZU9FR0lqCi1uEPHyZHV-expNSgUw44VlrnV3NP4EIXKLxkdoybhg7YSEpaSRt4hjRIuT9_9zhtTW8pPcJizHgMv3zKoW4g)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNpVkE1qw0AMha8itGohvoAXhcZOswk0kOw8XgiPnBmS-WEsU4Ltu3dcU2i1knjf0xOasAuascRbomjgWisPud6byiQ7iKOhhaJ4m48s4ILn5wz7l2OAwYQYrb-9bvx-haCaTivGIMb6-7JJ1Y__0_MMdXOiKCG2f5XrV5jh0Nizyev_KyZxdn00PZU9FR0lqCi1uEPHyZHV-expNSgUw44VlrnV3NP4EIXKLxkdoybhg7YSEpaSRt4hjRIuT9_9zhtTW8pPcJizHgMv3zKoW4g)|
+||||
+
 
 ---
 
