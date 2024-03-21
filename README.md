@@ -26,7 +26,16 @@ https://github.com/s8st/20240320FinalProject
 
 --- 
 
+이미지 업로드 테스트
+![image](https://github.com/s8st/20240320FinalProject/assets/153998744/bcaeedf0-3753-44ac-8cc7-01e7526a1512)   
 
+
+`/20240320FinalProject/assets/` ---> 이미지를 드래그엔드랍하면 숨겨진 폴더에 이미지가 저장되고 이미지가 숨겨진 주소를 참고하는 것 같다.  
+**readme를 vscode에서 작성하면 이미지가 따로 업로드 된다.**
+
+```
+https://github.com/s8st/20240320FinalProject/assets/153998744/bcaeedf0-3753-44ac-8cc7-01e7526a1512
+```
 
 
 
