@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 -->  
 
 --- 
-최종프로젝트  
+# 최종프로젝트  
 https://github.com/s8st/20240320FinalProject
 
---- 
+---  
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+---  
 
 이미지 업로드 테스트
 ![image](https://github.com/s8st/20240320FinalProject/assets/153998744/bcaeedf0-3753-44ac-8cc7-01e7526a1512)   
