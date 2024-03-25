@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | 주차 | webGL 주소 |  추가 계획 |
 |:---------:|:---------:|:---------:|
 |1.rain|||
-|2.MyShield|[![](https://github.com/s8st/s8st/assets/153998744/0924699d-da79-4781-979e-e7eade1cb466)](https://s8st.github.io/20240325MyShield/)|포톤 멀티플레이<br>쉴드 크기 커지는 아이템,작아지는 아이템|
+|2.MyShield|[![](https://github.com/s8st/s8st/assets/153998744/0924699d-da79-4781-979e-e7eade1cb466)](https://s8st.github.io/20240325MyShield/)|포톤 멀티플레이<br>쉴드 크기 커지는 아이템,작아지는 아이템,가로 세로 수정, 이미지 변경|
 |3.|||
 |4.|||
 |5.|||
