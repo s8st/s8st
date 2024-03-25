@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![](그림이미지 주소)](링크 연결 주소)
 -->  
 
 ---   
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 | 주차 | webGL 주소 |  추가 계획 |
 |:---------:|:---------:|:---------:|
 |1.rain|||
-|2.MyShield|[![](https://github.com/s8st/s8st/assets/153998744/3fbe7ae9-bb92-44ab-958e-50917e8c2f37)](https://s8st.github.io/20240325MyShield/)|포톤 멀티플레이<br>쉴드 크기 커지는 아이템,작아지는 아이템|
+|2.MyShield|[![](https://github.com/s8st/s8st/assets/153998744/0924699d-da79-4781-979e-e7eade1cb466)](https://s8st.github.io/20240325MyShield/)|포톤 멀티플레이<br>쉴드 크기 커지는 아이템,작아지는 아이템|
 |3.|||
 |4.|||
 |5.|||
