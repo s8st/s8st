@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 주차 | webGL 주소 |  추가 계획 |
 |:---------:|:---------:|:---------:|
 |1.rain|||
-|2.MyShield|||
+|2.MyShield||포톤 멀티플레이<br>쉴드 크기 커지는 아이템,작아지는 아이템|
 |3.|||
 |4.|||
 |5.|||
