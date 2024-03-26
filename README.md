@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->  
 
 ---  
-## 빌드 후 수정 사항이 생기면 빌드를 다시해야하는 문제점 해결 :
+## 빌드 후 수정 사항이 생기면 빌드를 다시 해야하는 문제점 해결 :
 > [!IMPORTANT]
 > `에셋번들 & 어드레서블`  
 > `Assetbundle & Addressable`
