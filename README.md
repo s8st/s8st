@@ -29,13 +29,13 @@ https://simpleicons.org/
 https://hits.seeyoufarm.com/
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs8st%2Fhit-counter&count_bg=%23F95B31&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=%EC%8B%A0%EA%B8%B0%ED%95%98%EA%B5%AC%EB%A7%8C&edge_flat=false"/></a> ---> **Html**  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs8st%2Fhit-counter&count_bg=%23F95B31&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=이거슨타이틀...적고싶은것적으면되는구나&edge_flat=true)](https://hits.seeyoufarm.com) ---> **Markdown** 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs8st%2Fhit-counter&count_bg=%23F95B31&title_bg=%23000000&icon=adobephotoshop.svg&icon_color=%23FFFFFF&title=이거슨타이틀...적고싶은것적으면되는구나&edge_flat=true)](https://hits.seeyoufarm.com) ---> **Markdown** 
 
 ```html
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs8st%2Fhit-counter&count_bg=%23F95B31&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=%EC%8B%A0%EA%B8%B0%ED%95%98%EA%B5%AC%EB%A7%8C&edge_flat=false"/></a>  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs8st%2Fhit-counter&count_bg=%23F95B31&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=%EC%8B%A0%EA%B8%B0%ED%95%98%EA%B5%AC%EB%A7%8C&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs8st%2Fhit-counter&count_bg=%23F95B31&title_bg=%23000000&icon=adobephotoshop.svg&icon_color=%23FFFFFF&title=%EC%8B%A0%EA%B8%B0%ED%95%98%EA%B5%AC%EB%A7%8C&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ```
 
