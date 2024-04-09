@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 -->  
 ---  
 
+아바타이미지  ---> 주소 끝에 `.png` 추가  
+![image](https://github.com/s8st/s8st/assets/153998744/d85cd5d7-b57b-4079-b567-974af930ab1b)
+
+
+
 `ctrl` + `shift` + `p` == change preview
 
 ```diff
