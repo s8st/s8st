@@ -22,6 +22,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![](그림이미지 주소)](링크 연결 주소)
 -->  
+---  
+
+`ctrl` + `shift` + `p` == change preview
+
+```diff
+-rkskekfkakqktk
++가나다라마바사
+```
+````
+```diff
+-rkskekfkakqktk
++가나다라마바사
+```
+````
 
 
 ---  
