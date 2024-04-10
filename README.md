@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![](그림이미지 주소)](링크 연결 주소)
 -->  
+
+---  
+
+유니티 레코더  
+https://www.youtube.com/watch?v=I0r949js4rk
+
 ---  
 
 아바타이미지  ---> 주소 끝에 `.png` 추가  
