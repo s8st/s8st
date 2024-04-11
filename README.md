@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 ---  
 
 유니티 레코더  
-https://www.youtube.com/watch?v=I0r949js4rk
+https://www.youtube.com/watch?v=I0r949js4rk  
+![image](https://github.com/s8st/s8st/assets/153998744/29017378-bb4b-47d4-a3f9-b7b0a64883ff)
+
 
 ---  
 
