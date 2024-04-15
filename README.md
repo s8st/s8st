@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 [![](그림이미지 주소)](링크 연결 주소)
 -->  
 
+---  
 
-
-
+https://www.youtube.com/watch?v=k2sjqMbw1Xs  
 ---  
 
 https://www.youtube.com/playlist?list=PL45tEBs0ZUunZdRIZ49mZyNF_Dlr9ZoyS  
