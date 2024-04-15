@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 [![](그림이미지 주소)](링크 연결 주소)
 -->  
 
+
+
+
+---  
+
+https://www.youtube.com/playlist?list=PL45tEBs0ZUunZdRIZ49mZyNF_Dlr9ZoyS  
+
+---  
 ## [컬러](https://www.youtube.com/watch?v=CNVylDLu9jg)  
 https://docs.unity3d.com/kr/530/ScriptReference/Color.html
 
