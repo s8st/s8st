@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---  
 
-포토샵으로 fhd html 페이지 만글기
+포토샵으로 fhd html 페이지 만글기 --> mp4 연결 가능? embed 유튜브 연결?
 
 
 --- 
