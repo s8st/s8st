@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 -->  
 
 ---  
+https://www.youtube.com/watch?v=Cru7ZVVgy28  
 
 https://www.youtube.com/watch?v=k2sjqMbw1Xs  
+
 ---  
 
 https://www.youtube.com/playlist?list=PL45tEBs0ZUunZdRIZ49mZyNF_Dlr9ZoyS  
