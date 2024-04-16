@@ -23,6 +23,42 @@ Here are some ideas to get you started:
 [![](그림이미지 주소)](링크 연결 주소)
 -->  
 
+--- 
+
+
+
+  [mp4_test](/Recordings/Movie_001.mp4)
+
+  [mp4_test2](https://s8st.github.io/20240320FinalProject/docs/Recordings/Movie_001.mp4)
+
+
+[mp4_test3](https://s8st.github.io/20240320FinalProject/)  
+
+[mp4_test4](https://s8st.github.io/20240320FinalProject/Recordings/Movie_001.mp4)
+
+
+
+
+
+```
+
+[mp4_test](/Recordings/Movie_001.mp4) : 재생 안됨
+
+[mp4_test2](https://s8st.github.io/20240320FinalProject/docs/Recordings/Movie_001.mp4) : 재생 안됨
+
+
+[mp4_test3](https://s8st.github.io/20240320FinalProject/)  : 웹 페이지 링크만
+
+[mp4_test4](https://s8st.github.io/20240320FinalProject/Recordings/Movie_001.mp4)  : 페이지 연결 후 재생
+
+
+
+```
+#### docs폴더 없이 웹페이지 폴더로 이동
+`https://s8st.github.io/20240320FinalProject/`  **~docs~**   `Recordings/Movie_001.mp4`
+
+
+
 ---  
 https://www.youtube.com/watch?v=Cru7ZVVgy28  
 
